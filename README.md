@@ -37,3 +37,16 @@ npm run build
 ```sh
 npm run lint
 ```
+
+# To Convert To PDF
+
+Upload project to Github Pages using Vite tutorial.
+
+Use Project Link on https://www.ilovepdf.com/html-to-pdf
+
+With following settings:
+
+-   Screensize: Desktop HD 1920px;
+-   Page Size: A4;
+-   Orientation: Landscape
+-   Page Margin: No Margin
