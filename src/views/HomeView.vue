@@ -1,5 +1,5 @@
 <template>
-    <div class="p-10 font-inter max-w-5xl">
+    <div class="p-10 font-inter">
         <HeaderComponent></HeaderComponent>
         <div class="grid grid-cols-3 mt-5">
             <div class="py-5 border-t-2 border-r-2 border-neutral-200 space-y-8">
