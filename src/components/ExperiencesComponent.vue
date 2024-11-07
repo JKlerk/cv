@@ -6,6 +6,21 @@
             <div class="space-y-2">
                 <div class="flex">
                     <div>
+                        <p class="font-semibold">Web Developer &mdash; Aveccopain</p>
+                        <p class="text-sm text-neutral-600">Freelance</p>
+                        <p class="text-sm text-neutral-600">Sept 2018 &mdash; Current</p>
+                    </div>
+                    <div class="my-auto flex flex-1 justify-end">
+                        <p class="text-sm text-neutral-600 font-medium">Dordrecht</p>
+                    </div>
+                </div>
+                <div>
+                    <p class="text-sm text-neutral-600">Developed a complete webshop for clothing brand Aveccopain as a solo developer, using Nuxt/Vue.js, AdonisJS, and TailwindCSS.</p>
+                </div>
+            </div>
+            <div class="space-y-2">
+                <div class="flex">
+                    <div>
                         <p class="font-semibold">Computer Scientist &mdash; Deloitte</p>
                         <p class="text-sm text-neutral-600">Internship</p>
                         <p class="text-sm text-neutral-600">Sept 2023 &mdash; Feb 2024</p>
